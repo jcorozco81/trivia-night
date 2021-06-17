@@ -40,13 +40,13 @@ This webapp is built with Bulma, Jquery, [Open Trivia Database](https://opentdb.
 1. To install this website to a local computer, clone the repository using the following command
 
 ```
-git clone git@github.com:bear-evans/trivia-night.git
+git clone git@github.com:jcorozco81/trivia-night.git
 ```
 2. Double click on the index.html file to open the website.
 
 Or
 
-1. You may also view a live demo of the site by visiting the following link: [https://bear-evans.github.io/trivia-night/](https://bear-evans.github.io/trivia-night/).
+1. You may also view a live demo of the site by visiting the following link: [https://jcorozco81.github.io/trivia-night/](https://jcorozco81.github.io/trivia-night/).
 
 
 
